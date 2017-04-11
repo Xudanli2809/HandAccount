@@ -52,7 +52,6 @@
         android:layout_alignLeft="@id/ha_enter"
         android:layout_below="@id/ha_enter"
         android:background="#00000000"
-
         android:text="注册"
         android:textSize="16sp"/>
 
@@ -63,7 +62,7 @@
         android:layout_below="@id/ha_enter"
         android:layout_alignRight="@id/ha_enter"
         android:background="#00000000"
-        android:text="忘记密码"
+        android:text="忘记密码?"
         android:textSize="16sp"/>
 
     </RelativeLayout>
